@@ -1,7 +1,7 @@
 # JAVASCRIPT-CHRONICLES-FOR-DEVELOPER
 We established a Technical Document Page to ensure clarity, uniformity, compliance, knowledge sharing and contribute to the satisfaction of all the Software Developer students at University of Toronto.
 
-**PROJECT LINK:**  h
+**PROJECT LINK:** https://ray-b-ouamba.github.io/JAVASCRIPT-CHRONICLES-FOR-DEVELOPER/
 
 ## HOW IT'S MADE:
 ## TECH USED:
